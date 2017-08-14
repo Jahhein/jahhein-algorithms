@@ -1,0 +1,3 @@
+[submodule "pygorithm"]
+	path = pygorithm
+	url = git@github.com:OmkarPathak/pygorithm.git
